@@ -292,6 +292,9 @@ section .button button:hover{
    width: 50%;
    align-items: center;
  }
+ .skills-details .text .icon{
+   align-items: center;
+ }
  .skills-details p{
    color: #0E2431;
    text-align: justify;
