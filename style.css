@@ -154,16 +154,16 @@ nav.sticky .menu-btn{
   border-radius: 6px;
   font-size: 25px;
   font-weight: 400;
-  background: #7a50af;
+  background: #85AF50;
   color: #fff;
   cursor: pointer;
   border: 2px solid transparent;
   transition: all 0.4s ease;
 }
 .home .button button:hover{
-  border-color: #7a50af;
+  border-color: #85AF50;
   background-color: #fff;
-  color: #7a50af;
+  color: #85AF50;
 }
 /* button margin */
 .fcc-btn {
@@ -172,16 +172,16 @@ nav.sticky .menu-btn{
   border-radius: 6px;
   font-size: 25px;
   font-weight: 400;
-  background: #7a50af;
+  background: #85AF50;
   color: #fff;
   cursor: pointer;
   border: 2px solid transparent;
   transition: all 0.4s ease;
 }
 .fcc-btn:hover{
-  border-color: #7a50af;
+  border-color: #85AF50;
   background-color: #fff;
-  color: #7a50af;
+  color: #85AF50;
 }
 
 .home .fcc-btn{
@@ -263,16 +263,16 @@ section .button button{
   border-radius: 4px;
   font-size: 25px;
   font-weight: 400;
-  background: #7a50af;
+  background: #85AF50;
   color: #fff;
   border: 2px solid transparent;
   cursor: pointer;
   transition: all 0.4s ease;
 }
 section .button button:hover{
-  border-color: #7a50af;
+  border-color: #85AF50;
   background-color: #fff;
-  color: #7a50af;
+  color: #85AF50;
 }
 
  /* My Skills CSS */
