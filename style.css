@@ -111,7 +111,6 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  /* background: url("https://github.com/Kapil987/contactKapil.github.io/blob/main/images/background.png") no-repeat; */
   background: url("images/background.png") no-repeat;
   background-size: cover;
   background-position: center;
@@ -278,7 +277,7 @@ section .button button:hover{
 
  /* My Skills CSS */
  .skills{
-   background: #AA90CC;
+   background: #f2eff8;
  }
  .skills .content{
    padding: 40px 0;
@@ -382,7 +381,7 @@ section .button button:hover{
 }
 /* Contact Me CSS */
 .contact{
-  background: #D3C6A5;
+  background: #f2eff8;
 }
 .contact .content{
   margin: 0 auto;
