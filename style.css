@@ -188,7 +188,7 @@ nav.sticky .menu-btn{
   margin: 14px 0;
 }
 
-/* About Section Styling */
+/* About Me Section Styling */
 /* Those Elements Where We Have Apply Same CSS,
  I'm Selecting Directly 'Section Tag' and 'Class'  */
 section{
@@ -277,7 +277,7 @@ section .button button:hover{
 
  /* My Skills CSS */
  .skills{
-   background: #f2eff8;
+   background: #ffffff;
  }
  .skills .content{
    padding: 40px 0;
@@ -334,6 +334,9 @@ section .button button:hover{
 }
 
 /* My Services CSS */
+.services{
+   background: #f2eff8;
+ }
 .services .boxes{
   display: flex;
   flex-wrap: wrap;
