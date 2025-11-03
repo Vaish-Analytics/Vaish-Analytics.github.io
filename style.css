@@ -535,3 +535,113 @@ footer .text span a{
     color: #7a50af;
   }
 }
+
+/* --- Enhanced Mobile Responsiveness --- */
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+    overflow-x: hidden;
+  }
+
+  nav .navbar .logo a {
+    font-size: 24px;
+  }
+
+  nav .navbar .menu {
+    max-width: 100%;
+    padding: 80px 0;
+  }
+
+  .home {
+    background-attachment: scroll;
+    text-align: center;
+  }
+
+  .home .home-content {
+    width: 95%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .home .text-one {
+    font-size: 20px;
+  }
+
+  .home .text-two {
+    font-size: 38px;
+    line-height: 1.2;
+  }
+
+  .home .text-three {
+    font-size: 22px;
+  }
+
+  .home .text-four {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .fcc-btn {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  .skills .content,
+  .services .content,
+  .contact .content {
+    width: 95%;
+    padding: 20px 0;
+  }
+
+  .skills .skills-details,
+  .services .boxes {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skills-details .text,
+  .skills-details .boxes .box,
+  .services .boxes .box {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .skills .title span,
+  .services .title span,
+  .contact .title span {
+    font-size: 22px;
+  }
+
+  section .topic {
+    font-size: 18px;
+  }
+
+  .services .boxes .box {
+    padding: 20px;
+  }
+
+  footer .text span {
+    font-size: 14px;
+  }
+
+  .scroll-button a {
+    bottom: 10px;
+    right: 10px;
+    font-size: 16px;
+    padding: 6px 10px;
+  }
+}
+
+/* Small landscape devices fix */
+@media (max-width: 380px) {
+  .home .text-two {
+    font-size: 32px;
+  }
+  .home .text-three {
+    font-size: 20px;
+  }
+  .home .text-four {
+    font-size: 15px;
+  }
+}
