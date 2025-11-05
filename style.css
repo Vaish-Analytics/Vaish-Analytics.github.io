@@ -361,10 +361,12 @@ margin-left: 2em;
 .services .boxes .box .per{
   font-size: 18px;
   color: #85AF50;
+  font-weight: bold;
 }
 .services .boxes .box .per:hover{
   font-size: 18px;
   color: #85AF50;
+  font-weight: bold;
 }
 .services .boxes .box:hover{
   background: #7a50af;
