@@ -524,7 +524,9 @@ footer .text span a{
 }
 
 @media (max-width: 500px){
-  .home{
+  .home {
+    background-attachment: scroll;
+    text-align: center;
     background: url("Images/Background_mobile.png") no-repeat;
   }
 
@@ -555,12 +557,6 @@ footer .text span a{
   nav .navbar .menu {
     max-width: 100%;
     padding: 80px 0;
-  }
-
-  .home {
-    background-attachment: scroll;
-    text-align: center;
-    background: url("Images/Background_mobile.png") no-repeat;
   }
 
   .home .home-content {
@@ -641,11 +637,6 @@ footer .text span a{
 
 /* Small landscape devices fix */
 @media (max-width: 380px) {
-  .home {
-      background-attachment: scroll;
-      text-align: center;
-      background: url("Images/Background_mobile.png") no-repeat;
-    }
   
   .home .text-two {
     font-size: 32px;
