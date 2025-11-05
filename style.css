@@ -356,6 +356,7 @@ section .button button:hover{
 }
 .services .boxes .box .list{
 text-align: left;
+margin-left: 2em;
 }
 .services .boxes .box .per{
   font-size: 18px;
