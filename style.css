@@ -357,6 +357,10 @@ section .button button:hover{
 .services .boxes .box .list{
 text-align: left;
 }
+.services .boxes .box .per{
+  font-size: 60px;
+  color: #85AF50;
+}
 .services .boxes .box:hover{
   background: #7a50af;
   color: #fff;
