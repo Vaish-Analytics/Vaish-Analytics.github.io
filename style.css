@@ -358,6 +358,10 @@ section .button button:hover{
 text-align: left;
 margin-left: 2em;
 }
+.services .boxes .box .list .tab_{
+margin-left: 2em;
+}
+
 .services .boxes .box .per{
   font-size: 18px;
   color: #85AF50;
