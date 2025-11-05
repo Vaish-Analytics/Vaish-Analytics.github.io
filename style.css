@@ -361,6 +361,10 @@ margin-left: 2em;
 .services .boxes .box .list .tab_{
 margin-left: 2em;
 }
+.services .boxes .box .list2{
+text-align: left;
+margin-left: 5em;
+}
 
 .services .boxes .box .per{
   font-size: 18px;
