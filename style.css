@@ -331,7 +331,7 @@ section .button button:hover{
   color: #7a50af;
 }
 .skills-details .boxes .per{
-  font-size: 18px;
+  font-size: 20px;
   color: #7a50af;
 }
 
@@ -367,12 +367,12 @@ margin-left: 5em;
 }
 
 .services .boxes .box .per{
-  font-size: 18px;
+  font-size: 20px;
   color: #85AF50;
   font-weight: bold;
 }
 .services .boxes .box .per:hover{
-  font-size: 18px;
+  font-size: 20px;
   color: #85AF50;
   font-weight: bold;
 }
