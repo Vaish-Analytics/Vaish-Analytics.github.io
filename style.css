@@ -366,6 +366,11 @@ text-align: left;
 margin-left: 2em;
 }
 
+.img{
+text-align: left;
+margin-left: 6em;
+}
+
 .services .boxes .box .per{
   font-size: 20px;
   color: #85AF50;
